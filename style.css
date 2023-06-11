@@ -1,0 +1,32 @@
+body{background-color: tan;
+    color: greenyellow;
+    font-size: 20px;
+    line-height: normal;
+    margin: 2%;
+    padding: 2%;
+    border: 5px double greenyellow;
+
+}
+h2{font-size: 200%;
+font-weight: bold;
+color: black;
+border-bottom: 5px double  greenyellow;
+}
+.colors{color: black;
+}
+.movies{color: black;}
+.fa-solid {color: black;}
+
+.yoda{
+    float: right;
+}
+.mando{ position: absolute;
+    left: 2250px;
+    top: 1160px;
+
+   
+    
+}
+
+
+ 
